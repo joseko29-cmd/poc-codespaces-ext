@@ -22,6 +22,8 @@
           "ms-python.python": true,
           "ms-python.vscode-pylance": true,
           "njpwerner.autodocstring": true,
+          "rvest.vs-code-prettier-eslint": true,
+          "thomaz.preparing": true,
           "github": true,
           "*": false
         },

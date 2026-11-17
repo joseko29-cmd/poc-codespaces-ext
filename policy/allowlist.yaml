@@ -14,6 +14,8 @@ allowed:
   - id: ms-python.debugpy
   - id: charliermarsh.ruff
   - id: njpwerner.autodocstring
+  - id: rvest.vs-code-prettier-eslint
+  - id: thomaz.preparing
 
   # --- extensiones inyectadas por la plataforma ---
   # Sin esto, el guard genera falsos positivos constantes.
